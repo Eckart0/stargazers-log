@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Visual Studio Code",
+    "repository": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "A code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "language": "TypeScript",
+    "starredAt": "2026-10-28"
+  },
+  {
+    "name": "Linux",
+    "repository": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "The Linux kernel source tree.",
+    "language": "C",
+    "starredAt": "2026-10-17"
+  },
+  {
+    "name": "Awesome",
+    "repository": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "language": "Markdown",
+    "starredAt": "2026-09-30"
+  }
+]
